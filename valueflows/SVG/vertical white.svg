@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="121.54852mm"
+   height="70.631149mm"
+   viewBox="0 0 121.54852 70.631151"
+   version="1.1"
+   id="svg4542"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="vertical white.svg"
+   inkscape:export-filename="/home/anxhelo/valueflows/vertical colorpng.png"
+   inkscape:export-xdpi="177.61"
+   inkscape:export-ydpi="177.61">
+  <defs
+     id="defs4536" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-109.89142"
+     inkscape:cy="353.36286"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4539">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.620879,-175.33602)">
+    <text
+       y="245.66237"
+       x="10.468479"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:'Fira Sans OT';-inkscape-font-specification:FiraSansOT;writing-mode:lr-tb;fill:#808285;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       id="text30">
+      <tspan
+         sodipodi:role="line"
+         id="tspan28"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.35277775"
+         x="10.468479"
+         y="245.66237">Valueflows</tspan>
+    </text>
+    <path
+       d="m 82.872766,193.90095 c -3.010959,2.28918 -6.740171,9.05157 -6.766277,12.83406 -0.0053,0.76341 0.523168,2.15406 0.523168,2.96827 0,2.89101 -2.343501,5.23452 -5.234515,5.23452 -2.891014,0 -5.234517,-2.34351 -5.234517,-5.23452 0,-0.81421 0.528461,-2.20486 0.52317,-2.96827 -0.02611,-3.78249 -3.75532,-10.54488 -6.766278,-12.83406 -1.952977,-1.48484 -4.225572,-2.58974 -4.225572,-5.13503 0,-2.89102 2.343503,-5.23452 5.234517,-5.23452 2.890661,0 5.234163,2.3435 5.234163,5.23452 0,0.81421 -0.528461,1.85384 -0.523169,2.61726 0.02258,3.21839 3.140428,13.08593 5.757686,13.08593 2.617258,0 5.735107,-9.86754 5.757686,-13.08593 0.0053,-0.76342 -0.523171,-1.80305 -0.523171,-2.61726 0,-2.89102 2.343505,-5.23452 5.234165,-5.23452 2.891015,0 5.234517,2.3435 5.234517,5.23452 0,2.54529 -2.272594,3.65019 -4.225573,5.13503 M 71.395142,175.33602 c -12.079816,0 -21.872222,9.79276 -21.872222,21.87222 0,12.07982 9.792406,21.87222 21.872222,21.87222 12.079815,0 21.872222,-9.7924 21.872222,-21.87222 0,-12.07946 -9.792407,-21.87222 -21.872222,-21.87222"
+       style="fill:#34acb0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+       id="path42"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
