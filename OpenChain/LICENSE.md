@@ -1,4 +1,4 @@
-To the extent possible under law, Ura Design has waived all copyright and related or neighboring rights to OpenChain Penguin Illustrations.  
+To the extent possible under law, Ura Design has waived all copyright and related or neighboring rights to OpenChain Penguin Illustrations via the CC0 waiver, 
 
 Credits are optional, but appreciated:
 
