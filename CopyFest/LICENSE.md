@@ -2,4 +2,4 @@ To the extent possible under law, Ura Design has waived all copyright and relate
 
 Credits are optional, but appreciated:
 
-Illustrator: Elio Qoshi ( https://elioqoshi.me/ ) Layout: Ura Design ( https://ura.design )
+Illustrator: Ura Design ( https://ura.design )
