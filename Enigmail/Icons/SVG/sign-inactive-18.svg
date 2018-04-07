@@ -9,99 +9,58 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="89.400215"
-   height="89.101509"
-   viewBox="0 0 23.65381 23.574774"
    version="1.1"
-   id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="sign-inactive-18.svg"
-   inkscape:export-filename="/home/anxhelo/works/Enigmail/Icons/PNG/sign-active-18.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
-  <defs
-     id="defs2" />
-  <sodipodi:namedview
-     id="base"
+   id="svg4217"
+   xml:space="preserve"
+   width="56.392132"
+   height="56.203335"
+   viewBox="0 0 56.392132 56.203335"
+   sodipodi:docname="Icon-10.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+     id="metadata4223"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs4221"><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4237"><path
+         d="M 0,42.153 H 42.294 V 0 H 0 Z"
+         id="path4235"
+         inkscape:connector-curvature="0" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0986883"
-     inkscape:cx="74.616505"
-     inkscape:cy="25.608567"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
+     inkscape:window-width="713"
+     inkscape:window-height="513"
+     id="namedview4219"
      showgrid="false"
-     borderlayer="true"
-     inkscape:showpageshadow="true"
-     units="px"
-     inkscape:pagecheckerboard="false"
-     showguides="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:zoom="4.1990391"
+     inkscape:cx="28.196066"
+     inkscape:cy="28.101667"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     objecttolerance="10"
-     guidetolerance="10"
-     inkscape:snap-tangential="true"
-     inkscape:snap-perpendicular="true"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid10"
-       dotted="false"
-       originx="-229.61397"
-       originy="-58.003189" />
-  </sodipodi:namedview>
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <cc:license
-           rdf:resource="" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4225" /><g
+     id="g4225"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-229.61385,-215.422)">
-    <g
-       id="g1804"
-       inkscape:export-filename="/home/anxhelo/works/Enigmail/Icons/PNG/sign-inactive-18.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
-      <g
-         id="g108"
-         transform="matrix(0.559275,0,0,-0.559275,253.26766,231.78269)">
-        <path
-           d="M 0,0 -3.245,3.245 -8.071,-1.582 -12.898,3.245 -16.144,0 l 4.828,-4.827 -4.828,-4.827 3.246,-3.245 4.827,4.827 4.826,-4.827 3.245,3.245 -4.827,4.827 z"
-           style="fill:#cf4e53;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path110"
-           inkscape:connector-curvature="0" />
-      </g>
-      <g
-         id="g112"
-         transform="matrix(0.559275,0,0,-0.559275,231.65912,229.81103)">
-        <path
-           d="m 0,0 -3.657,-13.982 14.003,3.741 -0.502,4.514 -4.828,0.355 -0.376,4.85 M 18.162,18.894 1.233,1.943 6.583,1.358 6.96,-3.428 11.725,-3.783 12.331,-9.134 29.26,7.816 m -2.948,17.912 c -0.814,0 -1.608,-0.314 -2.236,-0.92 l -4.43,-4.431 11.077,-11.098 4.43,4.389 c 1.254,1.275 1.254,3.261 0,4.473 l -6.625,6.667 c -0.627,0.606 -1.421,0.92 -2.216,0.92"
-           style="fill:#cf4e53;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path114"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-  </g>
-</svg>
+     inkscape:label="Icons"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,56.203333)"><g
+       id="g4227"
+       transform="translate(34.2225,11.3175)"><path
+         d="M 0,0 -4.827,4.827 -8.071,1.582 -3.245,-3.245 -8.071,-8.072 -4.827,-11.318 0,-6.49 4.827,-11.318 8.071,-8.072 3.245,-3.245 8.071,1.582 4.827,4.827 Z"
+         style="fill:#cf4e53;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4229"
+         inkscape:connector-curvature="0" /></g><g
+       id="g4231"><g
+         id="g4233"
+         clip-path="url(#clipPath4237)"><g
+           id="g4239"
+           transform="translate(3.6575,16.4247)"><path
+             d="m 0,0 -3.657,-13.982 14.002,3.741 -0.501,4.514 -4.828,0.356 -0.376,4.848 M 18.162,18.894 1.233,1.944 6.583,1.358 6.96,-3.428 l 4.765,-0.355 0.606,-5.35 16.929,16.95 m -2.947,17.911 c -0.815,0 -1.609,-0.314 -2.236,-0.92 L 19.646,20.377 30.723,9.28 l 4.431,4.389 c 1.254,1.274 1.254,3.26 0,4.472 l -6.626,6.667 c -0.627,0.606 -1.421,0.92 -2.215,0.92"
+             style="fill:#cf4e53;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path4241"
+             inkscape:connector-curvature="0" /></g></g></g></g></svg>
