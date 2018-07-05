@@ -26,10 +26,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.1973766"
-     inkscape:cx="15.546737"
-     inkscape:cy="56.578101"
+     inkscape:cx="12.39373"
+     inkscape:cy="2.6167424"
      inkscape:document-units="px"
-     inkscape:current-layer="g13"
+     inkscape:current-layer="g2206"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="" />
       </cc:Work>
@@ -136,12 +136,12 @@
              style="stroke-width:0.16925259" />
           <text
              y="5.6209741"
-             x="66.5196"
+             x="66.779739"
              class="st1 st2"
              id="text2128"
              style="font-size:2.09789991px;font-family:OpenSans-Semibold">
             <tspan
-               style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+               style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Ultra-Bold'"
                id="tspan2126">POWERED BY</tspan>
           </text>
         </g>
