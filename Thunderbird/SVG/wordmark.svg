@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="896.27899"
+   width="916.22217"
    height="137.56433"
-   viewBox="0 0 237.1405 36.397227"
+   viewBox="0 0 242.41713 36.397227"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="wordmark.svg"
-   inkscape:export-filename="/home/anxhelo/Desktop/Thundebird Assets/Wordmark/wordmark.png"
+   inkscape:export-filename="/home/anxhelo/works/Thunderbird/PNG/wordmark.png"
    inkscape:export-xdpi="66.209999"
    inkscape:export-ydpi="66.209999">
   <defs
@@ -425,9 +425,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74199837"
-     inkscape:cx="368.83737"
-     inkscape:cy="51.074022"
+     inkscape:zoom="0.37099919"
+     inkscape:cx="38.831293"
+     inkscape:cy="378.99011"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -454,8 +454,8 @@
        type="xygrid"
        id="grid10"
        dotted="false"
-       originx="-104.09203"
-       originy="-109.56027" />
+       originx="-104.09204"
+       originy="-109.56026" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -481,7 +481,7 @@
        transform="matrix(0.38490333,0,0,0.38490333,104.09201,151.0425)">
       <polygon
          id="polygon1898"
-         points="35.553,93.148 35.553,21.535 57.975,21.535 59.31,10.718 0,10.718 0,21.535 23.086,21.535 23.086,93.148 "
+         points="0,21.535 23.086,21.535 23.086,93.148 35.553,93.148 35.553,21.535 57.975,21.535 59.31,10.718 0,10.718 "
          class="st0"
          style="fill:#363959" />
       <path
@@ -553,5 +553,22 @@
          inkscape:connector-curvature="0"
          style="fill:#363959" />
     </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#363959;stroke-width:0.29160109;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path2175"
+       cx="344.65027"
+       cy="166.19923"
+       r="1.7130617" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.80772996px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:start;text-anchor:start;opacity:1;fill:#363959;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3694382;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="343.69565"
+       y="167.16649"
+       id="text1040"><tspan
+         sodipodi:role="line"
+         id="tspan1038"
+         x="343.69565"
+         y="167.16649"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.3694382">R</tspan></text>
   </g>
 </svg>

@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="648.41901"
+   width="659.4657"
    height="154.38048"
-   viewBox="0 0 171.56087 40.8465"
+   viewBox="0 0 174.48364 40.8465"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="horizontal_logo.svg"
-   inkscape:export-filename="/home/anxhelo/Desktop/Thundebird Assets/Horizontal/horizontal_logo.png"
+   inkscape:export-filename="/home/anxhelo/works/Thunderbird/PNG/horizontal_logo.png"
    inkscape:export-xdpi="66.209999"
    inkscape:export-ydpi="66.209999">
   <defs
@@ -425,9 +425,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52467208"
-     inkscape:cx="360.42258"
-     inkscape:cy="105.97476"
+     inkscape:zoom="1.0493442"
+     inkscape:cx="404.00454"
+     inkscape:cy="144.3449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -455,7 +455,7 @@
        id="grid10"
        dotted="false"
        originx="-103.83007"
-       originy="-91.023342" />
+       originy="-91.023335" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -483,7 +483,7 @@
          id="g1212">
         <polygon
            id="polygon1188"
-           points="201.509,56.966 201.509,110.935 210.905,110.935 210.905,56.966 227.802,56.966 228.809,48.814 184.111,48.814 184.111,56.966 "
+           points="228.809,48.814 184.111,48.814 184.111,56.966 201.509,56.966 201.509,110.935 210.905,110.935 210.905,56.966 227.802,56.966 "
            class="st0"
            style="fill:#363959" />
         <path
@@ -615,7 +615,7 @@
              style="fill:#f8f8f8" />
           <polygon
              id="polygon1235"
-             points="107.437,140.522 106.384,138.073 11.806,106.627 12.14,108.837 "
+             points="106.384,138.073 11.806,106.627 12.14,108.837 107.437,140.522 "
              class="st3"
              style="fill:#999999" />
           <linearGradient
@@ -1084,5 +1084,22 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#363959;stroke-width:0.15875001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path2175"
+       cx="277.30173"
+       cy="183.59851"
+       r="0.93260473" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5285511px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:start;text-anchor:start;opacity:1;fill:#363959;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20112517;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="276.78198"
+       y="184.12509"
+       id="text1040"><tspan
+         sodipodi:role="line"
+         id="tspan1038"
+         x="276.78198"
+         y="184.12509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.20112517">R</tspan></text>
   </g>
 </svg>

@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="518.25873"
+   width="530.44324"
    height="422.39938"
-   viewBox="0 0 137.12263 111.75983"
+   viewBox="0 0 140.34645 111.75983"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="vertical_logo.svg"
-   inkscape:export-filename="/home/anxhelo/Desktop/Thundebird Assets/Vertical/vertical_logo.png"
+   inkscape:export-filename="/home/anxhelo/works/Thunderbird/PNG/vertical_logo.png"
    inkscape:export-xdpi="66.209999"
    inkscape:export-ydpi="66.209999">
   <defs
@@ -425,9 +425,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52467208"
-     inkscape:cx="209.57461"
-     inkscape:cy="159.09723"
+     inkscape:zoom="0.74199837"
+     inkscape:cx="17.770639"
+     inkscape:cy="153.95457"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -454,8 +454,8 @@
        type="xygrid"
        id="grid10"
        dotted="false"
-       originx="-123.57061"
-       originy="-76.96802" />
+       originx="-123.57062"
+       originy="-76.968017" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -483,7 +483,7 @@
          id="g1567">
         <polygon
            id="polygon1543"
-           points="24.627,346.857 24.627,297.252 40.159,297.252 41.084,289.759 0,289.759 0,297.252 15.991,297.252 15.991,346.857 "
+           points="15.991,297.252 15.991,346.857 24.627,346.857 24.627,297.252 40.159,297.252 41.084,289.759 0,289.759 0,297.252 "
            class="st0"
            style="fill:#363959" />
         <path
@@ -595,7 +595,7 @@
              inkscape:connector-curvature="0" />
           <polygon
              id="polygon1582"
-             points="106.293,166.974 262.817,219.015 291.845,95.591 112.594,62.276 98.452,142.68 "
+             points="262.817,219.015 291.845,95.591 112.594,62.276 98.452,142.68 106.293,166.974 "
              class="st2"
              style="fill:#fbfbfb" />
           <g
@@ -615,7 +615,7 @@
              style="fill:#f8f8f8" />
           <polygon
              id="polygon1590"
-             points="109,171.178 258.882,221.012 257.227,217.161 108.474,167.703 "
+             points="257.227,217.161 108.474,167.703 109,171.178 258.882,221.012 "
              class="st3"
              style="fill:#999999" />
           <linearGradient
@@ -1084,5 +1084,22 @@
            inkscape:connector-curvature="0" />
       </g>
     </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#363959;stroke-width:0.15875001;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path2175"
+       cx="262.90506"
+       cy="207.84134"
+       r="0.93260473" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.5285511px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';text-align:start;text-anchor:start;opacity:1;fill:#363959;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.20112517;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="262.38535"
+       y="208.36792"
+       id="text1040"><tspan
+         sodipodi:role="line"
+         id="tspan1038"
+         x="262.38535"
+         y="208.36792"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:0.20112517">R</tspan></text>
   </g>
 </svg>
