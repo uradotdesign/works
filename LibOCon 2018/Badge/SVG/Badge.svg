@@ -157,11 +157,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.52467208"
-     inkscape:cx="449.98925"
-     inkscape:cy="323.00484"
+     inkscape:zoom="1.0493442"
+     inkscape:cx="236.30041"
+     inkscape:cy="322.33324"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5559"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -170,7 +170,7 @@
      inkscape:pagecheckerboard="false"
      showguides="true"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="718"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -192,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="" />
       </cc:Work>
@@ -452,7 +452,7 @@
            y="55.393028"
            sodipodi:role="line"
            id="tspan7085-1"
-           style="stroke-width:0.06939589">2018</tspan>
+           style="stroke-width:0.06939589;-inkscape-font-specification:'Zilla Slab Bold';font-family:'Zilla Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">2018</tspan>
       </text>
       <text
          transform="rotate(-25.665118)"
@@ -465,7 +465,7 @@
            y="60.321167"
            sodipodi:role="line"
            id="tspan7089-9"
-           style="stroke-width:0.06939589">EDITION</tspan>
+           style="stroke-width:0.06939589;-inkscape-font-specification:'Zilla Slab Bold';font-family:'Zilla Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">EDITION</tspan>
       </text>
       <text
          transform="rotate(0.30194562)"

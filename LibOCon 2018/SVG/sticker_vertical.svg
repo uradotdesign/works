@@ -77,11 +77,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.37099919"
-     inkscape:cx="78.818591"
-     inkscape:cy="206.24127"
+     inkscape:zoom="0.74199838"
+     inkscape:cx="-137.88954"
+     inkscape:cy="403.94016"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3193"
      inkscape:document-rotation="0"
      showgrid="false"
      borderlayer="true"
@@ -90,7 +90,7 @@
      inkscape:pagecheckerboard="false"
      showguides="true"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
+     inkscape:window-height="718"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="" />
       </cc:Work>
@@ -182,7 +182,7 @@
       </g>
       <text
          id="text3231"
-         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.35245323px;font-family:'Zilla Slab Bold';-inkscape-font-specification:ZillaSlab-Bold;writing-mode:lr-tb;fill:#110f0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.35245323px;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';writing-mode:lr-tb;fill:#110f0d;fill-opacity:1;fill-rule:nonzero;stroke:none;font-style:normal;"
          transform="matrix(0.90134144,0.43310923,0.43310923,-0.90134144,297.35998,420.08111)">
         <tspan
            id="tspan3229"
@@ -198,7 +198,8 @@
            id="tspan3233"
            sodipodi:role="line"
            y="0"
-           x="0 8.3437233 18.164835 23.117601 32.277405 37.230171 47.248268">EDITION</tspan>
+           x="0 8.3437233 18.164835 23.117601 32.277405 37.230171 47.248268"
+           style="-inkscape-font-specification:'Zilla Slab Bold';font-family:'Zilla Slab';font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal">EDITION</tspan>
       </text>
       <text
          id="text3239"
