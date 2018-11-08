@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="302.72638"
+   height="345.6467"
+   viewBox="0 0 80.096349 91.452354"
+   version="1.1"
+   id="svg2913"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon_white.svg"
+   inkscape:export-filename="/home/anxhelo/Desktop/SecureDrop/PNG/icon_white.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2907">
+    <mask
+       id="mask-2_8_"
+       height="107"
+       width="43.4"
+       y="333.4"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter-3)"
+         id="g3687"
+         class="st0">
+        <polygon
+           points="0,440.4 0,333.4 43.4,333.4 43.4,440.4 "
+           class="st1"
+           id="path-1_8_"
+           style="fill:#ffffff" />
+      </g>
+    </mask>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="0"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter-3">
+      <feColorMatrix
+         id="feColorMatrix3681"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <mask
+       id="mask-4_8_"
+       height="107"
+       width="43.4"
+       y="333.4"
+       x="33.5"
+       maskUnits="userSpaceOnUse">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_1_-6)"
+         id="g3699"
+         class="st3">
+        <polygon
+           points="33.5,440.4 33.5,333.4 77,333.4 77,440.4 "
+           class="st1"
+           id="path-3_8_"
+           style="fill:#ffffff" />
+      </g>
+    </mask>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="33.5"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter_1_-6">
+      <feColorMatrix
+         id="feColorMatrix3693"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="0"
+       filterUnits="userSpaceOnUse"
+       id="filter3756">
+      <feColorMatrix
+         id="feColorMatrix3754"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="33.5"
+       filterUnits="userSpaceOnUse"
+       id="filter3767">
+      <feColorMatrix
+         id="feColorMatrix3765"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-94.746245"
+     inkscape:cy="60.444982"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata2910">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.715817,-112.39639)">
+    <g
+       id="g4185"
+       transform="matrix(1.2022494,0,0,1.2022494,-12.318651,-19.594715)">
+      <path
+         style="stroke-width:0.26458332;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 134.85623,130.71533 -31.82937,18.38854 v 36.75063 l 31.82937,-18.38854 z m -4.73604,30.26833 c 0,1.87855 -1.00542,3.6248 -2.64583,4.5773 l -17.22438,9.94833 v -23.20396 l 15.95438,-9.23396 c 0.39687,-0.23812 0.84666,-0.34396 1.29646,-0.34396 1.42875,0 2.59291,1.16417 2.59291,2.61938 v 15.63687 z"
+         id="path3732" />
+      <path
+         style="stroke-width:0.26458332;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 123.61144,150.77075 -7.91104,4.55083 v 11.13896 l 8.04333,-4.49792 c 0.97896,-0.52916 1.56104,-1.56104 1.56104,-2.67229 v -7.54062 c 0,-0.18521 -0.0529,-0.37042 -0.15875,-0.52917 -0.29104,-0.55563 -1.00541,-0.76729 -1.53458,-0.44979 z"
+         id="path3734" />
+      <path
+         style="stroke-width:0.26458332;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 101.54519,109.78679 -31.829371,18.38854 31.829371,18.38854 31.82938,-18.38854 z m -2.301867,18.94417 c -0.47625,0.0529 -0.926046,0.0794 -1.402296,0.0794 -3.571875,0 -6.455833,-1.64042 -6.455833,-3.62479 0,-1.98438 2.883958,-3.62479 6.455833,-3.62479 3.571873,0 6.455833,1.61396 6.455833,3.62479 0,0.39687 -0.10584,0.79375 -0.3175,1.13771 l 9.81604,3.59833 -6.74688,3.88938 z"
+         id="path3736" />
+      <path
+         style="stroke-width:0.26458332;fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="m 68.234152,130.71533 v 36.75063 L 100.06352,185.8545 V 149.10387 Z M 92.761027,174.742 74.954569,164.47616 v -5.715 l 12.170833,7.03792 v -2.61937 L 74.954569,156.14179 V 142.25116 L 92.761027,152.517 v 5.55625 l -12.964583,-7.48771 v 2.64583 l 12.964583,7.48771 z"
+         id="path3738" />
+    </g>
+  </g>
+</svg>

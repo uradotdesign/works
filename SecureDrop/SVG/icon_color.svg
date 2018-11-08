@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="302.72638"
+   height="349.60123"
+   viewBox="0 0 80.096349 92.498656"
+   version="1.1"
+   id="svg2913"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="icon_color.svg"
+   inkscape:export-filename="/home/anxhelo/Desktop/SecureDrop/PNG/icon_color.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2907">
+    <mask
+       id="mask-2_8_"
+       height="107"
+       width="43.4"
+       y="333.4"
+       x="0"
+       maskUnits="userSpaceOnUse">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter-3)"
+         id="g3687"
+         class="st0">
+        <polygon
+           points="43.4,440.4 0,440.4 0,333.4 43.4,333.4 "
+           class="st1"
+           id="path-1_8_"
+           style="fill:#ffffff" />
+      </g>
+    </mask>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="0"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter-3">
+      <feColorMatrix
+         id="feColorMatrix3681"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <mask
+       id="mask-4_8_"
+       height="107"
+       width="43.4"
+       y="333.4"
+       x="33.5"
+       maskUnits="userSpaceOnUse">
+      <g
+         style="filter:url(#Adobe_OpacityMaskFilter_1_-6)"
+         id="g3699"
+         class="st3">
+        <polygon
+           points="77,440.4 33.5,440.4 33.5,333.4 77,333.4 "
+           class="st1"
+           id="path-3_8_"
+           style="fill:#ffffff" />
+      </g>
+    </mask>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="33.5"
+       filterUnits="userSpaceOnUse"
+       id="Adobe_OpacityMaskFilter_1_-6">
+      <feColorMatrix
+         id="feColorMatrix3693"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="0"
+       filterUnits="userSpaceOnUse"
+       id="filter3756">
+      <feColorMatrix
+         id="feColorMatrix3754"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+    <filter
+       height="107"
+       width="43.400002"
+       y="333.39999"
+       x="33.5"
+       filterUnits="userSpaceOnUse"
+       id="filter3767">
+      <feColorMatrix
+         id="feColorMatrix3765"
+         values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
+         type="matrix" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="125.56291"
+     inkscape:cy="141.42661"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-page="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata2910">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.715819,-112.39639)">
+    <g
+       id="g1131"
+       transform="matrix(0.45099298,0,0,0.45099298,69.715819,112.39639)">
+      <path
+         id="path1121"
+         d="M 88.8,205.1 V 102.5 L 177.6,51.2 V 153.7 Z M 155,146.7 c 4.2,-2.4 6.7,-6.9 6.7,-11.7 V 95.1 c 0,-3.7 -3,-6.7 -6.6,-6.7 -1.2,0 -2.3,0.3 -3.3,0.9 L 111,112.9 v 59.2 z M 124.9,120.6 145.1,109 c 1.4,-0.8 3.2,-0.3 4,1.1 0.2,0.4 0.4,0.9 0.4,1.4 v 19.3 c 0,2.8 -1.5,5.4 -4,6.8 L 124.9,149 Z"
+         class="st22"
+         inkscape:connector-curvature="0"
+         style="fill:#045fb4" />
+      <path
+         id="path1123"
+         d="M 88.8,102.5 0,51.3 88.8,0 177.6,51.3 Z m 14,-36.8 17.2,-9.9 -25,-9.2 c 0.5,-0.9 0.8,-1.9 0.8,-2.9 0,-5.1 -7.4,-9.2 -16.5,-9.2 -9.1,0 -16.5,4.2 -16.5,9.2 0,5 7.4,9.2 16.5,9.2 1.2,0 2.4,-0.1 3.6,-0.2 z"
+         class="st23"
+         inkscape:connector-curvature="0"
+         style="fill:#2e8ae8" />
+      <g
+         id="g1129">
+        <polygon
+           id="polygon1125"
+           points="33.3,115.4 33.3,108.6 66.3,127.7 66.4,113.5 20.9,87.3 20.9,122.7 52,140.7 52,147.3 20.9,129.4 20.9,143.9 66.4,170.2 66.4,134.4 "
+           class="st24"
+           style="fill:none" />
+        <path
+           id="path1127"
+           d="m 0,153.8 88.8,51.3 V 102.5 L 0,51.3 Z m 20.9,-24.4 31.1,18 v -6.7 l -31.1,-18 V 87.3 l 45.4,26.2 v 14.2 L 33.2,108.6 v 6.7 l 33.1,19.1 v 35.7 L 20.9,143.9 Z"
+           class="st19"
+           inkscape:connector-curvature="0"
+           style="fill:#034482" />
+      </g>
+    </g>
+  </g>
+</svg>
